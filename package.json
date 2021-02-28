@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "foobar",
+	"author": "John Boateng",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://git.heroku.com/api-microservice.git"
 	}
 }
