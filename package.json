@@ -1,4 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "John Boateng"
+	"author": "John Boat",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://git.heroku.com/api-microservice.git"
+	}
 }
